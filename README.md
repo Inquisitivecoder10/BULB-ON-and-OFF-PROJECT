@@ -4,7 +4,7 @@ This is a simple JavaScript project that allows you to control a virtual bulb, t
 
 ## Installation
 
-No installation is required. Just open the `index.html` file in a web browser.
+To get started with this project, you'll need to have [Visual Studio Code (VS Code)](https://code.visualstudio.com/) or another code editor of your choice installed on your computer.
 
 ## Usage
 
